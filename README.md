@@ -6,6 +6,7 @@ Este projeto demonstra a criação de um **site estático** hospedado na **AWS**
 O objetivo é entregar um site **rápido**, **seguro** e de **baixo custo**, aplicando **boas práticas de segurança** e **arquitetura em nuvem**.
 
 ##  
+
 Tecnologias e Serviços AWS Utilizados
 
 - **Amazon S3** – Armazenamento de arquivos do site
